@@ -10,12 +10,19 @@ Your quest is to innovate for the future at the fictitious enterprise, XYZ Telec
 
 ## Learning Objectives
 
-By participating in this hackathon, you will learn how to:
--	Gain practical experience in deploying and managing Azure OpenAI services, including Large Language Models (LLMs).
--	Develop competencies in implementing intelligent document search capabilities using Azure AI.
--	Acquire the ability to set up and deploy a conversational AI interface with a sample chat application.
--	Enhance your problem-solving skills by addressing real-world scenarios with AI-driven solutions.
--	Collaborate with other participants to tackle challenges and share insights.
+During this hackathon, you’ll be able to: 
+ 
+- Collaborate with your peers and learn from experts through challenge-based group sessions.  
+- Get hands-on experience using Azure and Microsoft AI services to build intelligent apps.  
+- Gain a deeper understanding of AI-powered development tools and use cases to apply to your organisation. 
+
+Upon completing this workshop, participants will have:
+- Gained practical experience in deploying and managing Azure OpenAI services, including Large Language Models (LLMs).
+- Developed competencies in implementing intelligent document search capabilities using Azure AI.
+- Acquired the ability to set up and deploy a conversational AI interface with a sample chat application.
+- Enhanced problem-solving skills by addressing real-world scenarios with AI-driven solutions.
+- Learned how to provide data to LLMs to tailor them to specific needs.
+- Developed an application using Azure AI Speech and Prompt Flow endpoint to assist call center agents in real-time.
 
 ## Requirements
 1. An Azure subscription
